@@ -115,7 +115,7 @@ class MainActivity : AppCompatActivity() {
                         0.0
                     }
                     res6*=35.274
-                    //pound
+                    //pound //
                     var res7:Double= if(et1.text.isNotEmpty())
                     {
                         et1.text.toString().toDouble()
